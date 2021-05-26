@@ -1,0 +1,18 @@
+body{
+    font-size:18px
+}
+
+.list{
+    list-style-type:none;
+}
+.task{
+    color: red;
+    cursor: pointer;
+    display: inline-block;    
+    margin-right: 20px;
+}
+.done{
+    color: green;
+    text-decoration: line-through;
+
+}
